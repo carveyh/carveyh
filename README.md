@@ -6,8 +6,8 @@ Hi there - Carvey here. Feel free to poke around!
 
 ## Languages and Tools
 
-![Static Badge](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=flat-square&logoWidth=30)
-![Static Badge](https://img.shields.io/badge/-Redux-%23764ABC?logo=redux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Rails-%23D30001?style=flat-square&logo=ruby%20on%20rails&logoColor=white)
