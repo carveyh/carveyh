@@ -25,9 +25,9 @@ Hello and welcome, Carvey here!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carveyh&show_icons=true&theme=github_dark_dimmed)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carveyh&show_icons=true&theme=github_dark_dimmed) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carveyh&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carveyh&theme=algolia)](https://git.io/streak-stats)
 
 <!--
 **carveyh/carveyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
