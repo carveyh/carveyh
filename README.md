@@ -2,7 +2,7 @@
 
 Hello and welcome, Carvey here!
 
-Fullstack to me means: obsessing over user experience through cohesive design, as well as constantly exploring scalable and efficient server-side solutions.
+Fullstack to me means: relentlessly pursuing user experience through cohesive design, as well as constantly exploring scalable and efficient server-side solutions.
 Former hospitality management professional and grant writer.
 
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/carvey-hor/)
