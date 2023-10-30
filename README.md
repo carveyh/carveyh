@@ -1,8 +1,9 @@
 ## Greetings
 
-Hi there - Carvey here. Feel free to poke around!
+Hello and welcome, Carvey here!
 
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carvey-hor/)
+- 
 
 ## Languages and Tools
 
@@ -23,6 +24,8 @@ Hi there - Carvey here. Feel free to poke around!
 
 
 ## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carveyh&show_icons=true&theme=github_dark_dimmed)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carveyh&theme=vue)](https://git.io/streak-stats)
 
