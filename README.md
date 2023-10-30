@@ -2,8 +2,14 @@
 
 Hello and welcome, Carvey here!
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carvey-hor/)
-- 
+Fullstack to me means: obsessing over user experience through cohesive design, as well as constantly exploring scalable and efficient server-side solutions.
+Former hospitality management professional and grant writer.
+
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/carvey-hor/)
+- 🤝🏻 Open to collaboration
+<!-- 
+- Medium:
+-->
 
 ## Languages and Tools
 
@@ -19,6 +25,7 @@ Hello and welcome, Carvey here!
 ![Static Badge](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon%20aws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Framer-%230055FF?style=flat-square&logo=framer&logoColor=white)
 
@@ -28,6 +35,11 @@ Hello and welcome, Carvey here!
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carveyh&show_icons=true&theme=github_dark_dimmed) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carveyh&theme=algolia)](https://git.io/streak-stats)
+
+<!--
+## Recent Projects
+
+-->
 
 <!--
 **carveyh/carveyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
