@@ -25,7 +25,7 @@ Former hospitality management professional and grant writer.
 ![Static Badge](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon%20aws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Framer-%230055FF?style=flat-square&logo=framer&logoColor=white)
 
