@@ -1,6 +1,6 @@
-## Hello
+## Greetings
 
-My name is Carvey. Feel free to poke around!
+Hi there - Carvey here. Feel free to poke around!
 
 ## GitHub Stats
 
@@ -8,8 +8,8 @@ My name is Carvey. Feel free to poke around!
 
 ## Languages and Tools
 
-https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=flat-square
-![Static Badge](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Redux-%23764ABC?logo=redux&logoColor=white)
 
 
 <!--
